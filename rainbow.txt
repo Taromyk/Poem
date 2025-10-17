@@ -4,5 +4,8 @@ blue
 yellow
 red
 
+Drink
+beer
+
 green
 perple
