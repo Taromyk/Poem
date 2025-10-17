@@ -6,11 +6,14 @@ red
 
 Drink
 beer
+tomato juice
 
 green
 perple
 
 Foods
+
+potato
 grapes
 rice
 stake
